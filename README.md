@@ -9,7 +9,7 @@
 
 ## 🔎 Featured Dashboard: Retail Audit & Market Share
 
-📁 **File**: [`Retail_Audit_Market_Share.pbix`](./dashboards/Retail_Audit_Market_Share.pbix)  
+📁 **File**: (https://github.com/jehanzebarshi/PowerBIDashboards/blob/dashboards/Retail%20Audit%20Dashboard.pbix)
 📊 **Tool**: Power BI Desktop  
 📈 **Data**: 10,000+ rows of retail store data  
 🧠 **Skills**: Time intelligence, data modeling, performance insights
