@@ -9,12 +9,11 @@
 
 ## 🔎 Featured Dashboard: Retail Audit & Market Share
 
-📁 **File**: (https://github.com/jehanzebarshi/PowerBIDashboards/blob/dashboards/Retail%20Audit%20Dashboard.pbix)
 📊 **Tool**: Power BI Desktop  
 📈 **Data**: 10,000+ rows of retail store data  
 🧠 **Skills**: Time intelligence, data modeling, performance insights
 
-![Dashboard Preview](https://github.com/yourusername/yourrepo/raw/main/assets/retail_dashboard_preview.png)
+
 
 > **Insight**: This dashboard slices and analyzes retail audit data to reveal store-level market share, trends, and brand performance across multiple dimensions and time periods.
 
@@ -47,4 +46,4 @@ To demonstrate advanced capability in building **enterprise-grade dashboards** w
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https)
+- [LinkedIn](https://www.linkedin.com/in/jehanzeb-mufti-b299b2b1/)
